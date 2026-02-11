@@ -48,9 +48,7 @@ const Asking = ({
 
         {/* No Button */}
         <button
-        style={{    
-        fontSize: `${2 * yesSize}rem`,
-        padding: '0.5rem 1.5rem'}}
+        style={{    padding: '0.5rem 1.5rem'}}
           className="App-button"
           onClick={handleNoClick}
         >
