@@ -16,7 +16,7 @@ const Success = () => (
       moment with.
     </p>
     <p className="App-text-success">
-      Looking forward to spending Valentine's Day with you, Jocelyn.
+      Looking forward to spending Valentine's Day with you, Deepak.
     </p>
     {/* Displaying the date of the special moment */}
     <p className="App-text-date">14/02/2026</p>

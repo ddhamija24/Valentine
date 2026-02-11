@@ -67,7 +67,7 @@
 }
 
 .App-text-success {
-  font-size: 19px;
+  font-size: 25px;
   line-height: 1.5;
 }
 
@@ -84,7 +84,7 @@
 }
 
 .App-text-date {
-  font-size: 18px;
+  font-size: 25px;
 }
 
 .App-text-date:before {
