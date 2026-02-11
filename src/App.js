@@ -33,7 +33,7 @@ const App = () => {
       gif: angryBear,
     },
     {
-      text: "Please :(",
+      text: "Please, maan jao na.. :(",
       gif: cryBear,
     },
   ];
