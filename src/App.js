@@ -17,7 +17,6 @@ const App = () => {
   const [accepted, setAccepted] = useState(false);
   const [rejected, setRejected] = useState(false);
   const [rejectionIndex, setRejectionIndex] = useState(null);
-  const [lastRejectedIndex, setLastRejectedIndex] = useState(-1);
 
   // Rejection texts + GIF mapping
   const rejectionOptions = [
@@ -82,4 +81,3 @@ const handleReject = () => {
 };
 
 export default App;
-
