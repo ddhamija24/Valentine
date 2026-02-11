@@ -38,7 +38,7 @@ const Asking = ({
           className="App-button"
           onClick={handleAccept}
           style={{
-            fontSize: `${1 * yesSize}rem`,
+            fontSize: `${2 * yesSize}rem`,
             padding: `${0.5 * yesSize}rem ${1.5 * yesSize}rem`,
             transition: "all 0.3s ease",
           }}
@@ -48,7 +48,9 @@ const Asking = ({
 
         {/* No Button */}
         <button
-        style={{    padding: '0.5rem 1.5rem'}}
+        style={{    
+        fontSize: `${2 * yesSize}rem`,
+        padding: '0.5rem 1.5rem'}}
           className="App-button"
           onClick={handleNoClick}
         >
