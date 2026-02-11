@@ -67,6 +67,7 @@
 }
 
 .App-text-success {
+  color: #ff4d4d;
   font-size: 30px;
   line-height: 1.5;
 }
@@ -84,6 +85,7 @@
 }
 
 .App-text-date {
+  color: #ff4d4d;
   font-size: 30px;
 }
 
