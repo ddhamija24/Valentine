@@ -30,7 +30,7 @@
 .App-button {
   margin: 10px;
   padding: 15px 20px;
-  font-size: 25px;
+  font-size: 31px;
   cursor: pointer;
   background-color: #ff4d4d;
   color: white;
@@ -41,7 +41,7 @@
 
 .App-button:before {
   content: "\1F498";
-  font-size: 25px;
+  font-size: 31px;
   margin-right: 5px;
 }
 
