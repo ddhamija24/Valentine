@@ -22,7 +22,7 @@ const Asking = ({
       <img className="App-gif" src={gif} alt={altText} />
 
       <p className="App-text">
-        Deepak, will you be my Valentine?
+        Divya, will you be my Valentine?
       </p>
 
       <div
